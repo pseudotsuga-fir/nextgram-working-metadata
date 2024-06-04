@@ -25,3 +25,5 @@ cd nextgram/
 yarn
 yarn dev
 ```
+
+### last working version "next": "14.1.4",
