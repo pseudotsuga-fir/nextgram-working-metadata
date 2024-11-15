@@ -1,3 +1,5 @@
+const dynamic = "force-dynamic";
+
 import { Metadata } from "next";
 import Frame from "../../../../components/frame/Frame";
 import Modal from "../../../../components/modal/Modal";
